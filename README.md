@@ -5,14 +5,7 @@
 - [Overview](#overview)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-  - [Launching in Jupyter Notebook](#launching-in-jupyter-notebook)
-  - [Interactive Widgets](#interactive-widgets)
-- [Example](#example)
-- [Dependencies](#dependencies)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+
 
 ## Overview
 
@@ -39,3 +32,11 @@
    ```bash
    git clone https://github.com/yourusername/psf-crowding-analyzer.git
    cd psf-crowding-analyzer
+
+2. **Create a Virtual Environment (Optional but Recommended**
+
+   ```bash
+   python3 -m venv venv
+   source venv/bin/activate  # On Windows: venv\Scripts\activate
+
+
